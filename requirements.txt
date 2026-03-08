@@ -1,0 +1,5 @@
+rich==13.7.0
+scapy==2.5.0
+matplotlib==3.8.2
+cryptography==41.0.7
+numpy==1.26.2
